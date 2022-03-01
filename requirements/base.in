@@ -1,0 +1,8 @@
+blue==0.7.0
+django-filter
+django-rest-swagger
+djangorestframework
+markdown
+pip-compile-multi
+prospector==1.6.0
+python-decouple==3.6
